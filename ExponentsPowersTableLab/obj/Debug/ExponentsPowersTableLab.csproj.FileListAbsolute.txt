@@ -1,0 +1,8 @@
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\bin\Debug\ExponentsPowersTableLab.exe.config
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\bin\Debug\ExponentsPowersTableLab.exe
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\bin\Debug\ExponentsPowersTableLab.pdb
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\obj\Debug\ExponentsPowersTableLab.csproj.AssemblyReference.cache
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\obj\Debug\ExponentsPowersTableLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\obj\Debug\ExponentsPowersTableLab.csproj.CoreCompileInputs.cache
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\obj\Debug\ExponentsPowersTableLab.exe
+C:\Users\jgarr\source\repos\ExponentsPowersTableLab\ExponentsPowersTableLab\obj\Debug\ExponentsPowersTableLab.pdb
